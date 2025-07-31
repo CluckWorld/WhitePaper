@@ -50,7 +50,7 @@ The use of **Scrypt PoW** allows CluckCoin to be mined with GPUs, making it acce
 * **Q4:**
 
   * CoinGecko & CoinMarketCap listings
-  * Website and social media launch
+  * Social media launch
   * Community partnerships
 
 ### 2026 — Growing the Flock
